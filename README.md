@@ -17,7 +17,7 @@
   - React.js
   - React Router
   - Axios for API requests
-  - Bootstrap for styling
+  - Tailwind for styling
 - **Backend:**
   - Node.js
   - Express.js
