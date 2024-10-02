@@ -1,0 +1,76 @@
+#app { height: 100% }
+html,
+body {
+  position: relative;
+  height: 100%;
+}
+
+body {
+  background: #eee;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #fff;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  position: relative;
+  height: 100%;
+}
+
+#app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiperCards .swiper {
+  width: 240px;
+  height: 320px;
+}
+
+.swiperCards .swiper-slide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 18px;
+  font-size: 22px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.swiperCards .swiper-slide:nth-child(1n) {
+    background-image: url("../../assets/An eye for an eye.jpg");
+}
+
+.swiperCards .swiper-slide:nth-child(2n) {
+    background-image: url("../../assets/Mad women.jpg");
+}
+
+.swiperCards .swiper-slide:nth-child(3n) {
+    background-image: url("../../assets/Nothings like the movies.jpg");
+}
+
+.swiperCards .swiper-slide:nth-child(4n) {
+    background-image: url("../../assets/The bookshop women.jpg");
+}
+
+.swiperCards .swiper-slide:nth-child(5n) {
+    background-image: url("../../assets/The golden road.jpg");
+}
+
+.swiperCards .swiper-slide:nth-child(6n) {
+    background-image: url("../../assets/The intelligent.jpg");
+}
+

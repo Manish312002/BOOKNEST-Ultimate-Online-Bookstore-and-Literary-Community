@@ -1,0 +1,6 @@
+header, nav{
+    z-index: 10001  !important;
+}
+.prose img {
+    @apply max-w-lg h-auto mx-auto block;
+}
