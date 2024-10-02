@@ -107,4 +107,4 @@ Follow these steps to set up the BookNest application on your local machine:
 - **POST** `/dashboard/logout`: Log out user
 
 ## Conclusion
-  = BookNest provides a robust platform for book lovers to explore literature and engage with a community of like-minded individuals. With user-friendly features and a modern tech stack, it's the perfect place to buy books and share literary insights. Enjoy your reading journey!
+  - BookNest provides a robust platform for book lovers to explore literature and engage with a community of like-minded individuals. With user-friendly features and a modern tech stack, it's the perfect place to buy books and share literary insights. Enjoy your reading journey!
